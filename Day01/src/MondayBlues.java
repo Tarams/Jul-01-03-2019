@@ -25,6 +25,7 @@ public class MondayBlues {
 			.parallel()
 			.filter(city -> city.startsWith("C"))
 			.filter(city -> city.length() < 6)
+			//.forEach(System.out.println);
 			.forEach(System.out::println);
 		
 		cities
