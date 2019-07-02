@@ -3,7 +3,7 @@
 * You can use **Files** class and its methods for File IO
 
 
-### Implement the following
+### Implement the following in Lab03.java 
 
 * Extract and store all the city names alone in a separate file called **cities.txt**
 
