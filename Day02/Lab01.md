@@ -1,4 +1,4 @@
-* Start with the following classes **Library** and **Lab02Main**
+* Start with the following classes **Library** and **Lab01Main**
 
 ```java
 public class Library {
