@@ -53,8 +53,8 @@ public class Lab01Main {
 		List<Integer> evenNumbers = library.findEvenNumbers();
 		List<Integer> oddNumbers = library.findOddNumbers();
 		
-		List<Double> squares = library.findSquares();
-		List<Double> cubes = library.findCubes();
+		List<Integer> squares = library.findSquares();
+		List<Integer> cubes = library.findCubes();
 		
 		System.out.println(evenNumbers);
 		System.out.println(oddNumbers);
