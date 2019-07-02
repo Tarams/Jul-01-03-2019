@@ -1,13 +1,16 @@
 package com.intuit.lab01;
 
-import java.util.Arrays;
 import java.util.List;
 import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 public class ModifiedLibrary {
-	private List<Integer> numbers = Arrays.asList(12, 34, 56, 21, 78, 92, 43);
+	private List<Integer> numbers;
+	
+	public ModifiedLibrary(List<Integer> numbers) {
+		this.numbers = numbers;
+	}
 	
 	public List<Integer> compute(Function<Integer, Integer> logic) {
 		return numbers
