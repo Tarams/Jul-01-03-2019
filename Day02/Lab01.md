@@ -34,12 +34,12 @@ public class Library {
 		return square;
 	}
 	
-	public List<Integer> findSquareRoots() {
-		List<Integer> squareRoot = new ArrayList<>();
+	public List<Integer> findCubes() {
+		List<Integer> cubes = new ArrayList<>();
 		for (int num : numbers) {
-			squareRoot.add(Math.sqrt(num));
+			cubes.add(num * num * num);
 		}
-		return squareRoot;
+		return cubes;
 	}
 }
 ```
@@ -54,12 +54,12 @@ public class Lab01Main {
 		List<Integer> oddNumbers = library.findOddNumbers();
 		
 		List<Double> squares = library.findSquares();
-		List<Double> squareRoots = library.findSquareRoots();
+		List<Double> cubes = library.findCubes();
 		
 		System.out.println(evenNumbers);
 		System.out.println(oddNumbers);
 		System.out.println(squares);
-		System.out.println(squareRoots);
+		System.out.println(cubes);
 	}
 
 }
