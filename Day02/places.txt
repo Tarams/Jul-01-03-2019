@@ -1,0 +1,100 @@
+name,state,geonameid
+Panihati,West Bengal,1260482
+Pandua,West Bengal,1260527
+Pandhurna,Madhya Pradesh,1260543
+Pandharpur,Maharashtra,1260546
+Darjiling,West Bengal,1273467
+Darbhanga,Bihar,1273491
+Dandeli,Karnataka,1273574
+Dinapore,Bihar,1273581
+Damoh,Madhya Pradesh,1273587
+Jhusi,Uttar Pradesh,1268929
+Jhunjhunun,Rajasthan,1268936
+Jhinjhana,Uttar Pradesh,1268961
+Jhinjhak,Uttar Pradesh,1268962
+Jharsuguda,Odisha,1268977
+Jharia,Jharkhand,1268988
+Jhargram,West Bengal,1268990
+Jhansi,Uttar Pradesh,1269006
+Ludhiana,Punjab,1264728
+Lucknow,Uttar Pradesh,1264733
+Luckeesarai,Bihar,1264735
+Khandwa,Madhya Pradesh,1267031
+Khandela,Rajasthan,1267044
+Khanapur,Karnataka,1267065
+Khammam,Telangana,1267076
+Khamgaon,Maharashtra,1267084
+Malegaon,Maharashtra,1264115
+Malavalli,Karnataka,1264136
+Malaut,Punjab,1264138
+Malappuram,Kerala,1264154
+Makum,Assam,1264196
+Maksi,Madhya Pradesh,1264198
+Makrana,Rajasthan,1264206
+Mairwa,Bihar,1264282
+Mahbubnagar,Telangana,1264407
+Mahbubabad,Telangana,1264409
+Mainpuri,Uttar Pradesh,1264292
+Mainaguri,West Bengal,1264301
+Maihar,Madhya Pradesh,1264317
+Mahwah,Rajasthan,1264323
+Mahudha,Gujarat,1264344
+Maholi,Uttar Pradesh,1264356
+Mahoba,Uttar Pradesh,1264359
+Mahmudabad,Uttar Pradesh,1264363
+Mahishadal,West Bengal,1264368
+Mahgawan,Madhya Pradesh,1264383
+Maheshwar,Madhya Pradesh,1264385
+Mahendragarh,Haryana,1264395
+Mahemdavad,Gujarat,1264398
+Mahē,Kerala,1264403
+Mahasamund,Chhattisgarh,1264414
+Maharaganj,Uttar Pradesh,1264433
+Maharajgani,Bihar,1264436
+Maham,Haryana,1264455
+Mahalingpur,Karnataka,1264457
+Mahad,Maharashtra,1264489
+Maghar,Uttar Pradesh,1264504
+Magadi,Karnataka,1264514
+Madurantakam,Tamil Nadu,1264520
+Madurai,Tamil Nadu,1264521
+Madukkur,Tamil Nadu,1264523
+Madukkarai,Tamil Nadu,1264524
+Chennai,Tamil Nadu,1264527
+Madikeri,Karnataka,1264540
+Madhyamgram,West Bengal,1264543
+Madhupur,Jharkhand,1264551
+Maddagiri,Karnataka,1264553
+Madhubani,Bihar,1264555
+Madhipura,Bihar,1264570
+Madgaon,Goa,1264588
+Maddur,Karnataka,1264592
+Madanapalle,Andhra Pradesh,1264621
+Machilipatnam,Andhra Pradesh,1264637
+Machhlishahr,Uttar Pradesh,1264643
+Machhiwara,Punjab,1264644
+Macherla,Andhra Pradesh,1264647
+Lunglei,Mizoram,1264688
+Lunavada,Gujarat,1264700
+Losal,Rajasthan,1264756
+Loni,Uttar Pradesh,1264773
+Lonavla,Maharashtra,1264793
+Lonar,Maharashtra,1264794
+Lohardaga,Jharkhand,1264839
+Lingsugur,Karnataka,1264890
+Limbdi,Gujarat,1264912
+Leteri,Madhya Pradesh,1264949
+Leh,Kashmir,1264976
+Lawar Khas,Uttar Pradesh,1264989
+Laungowal,Punjab,1265007
+Latur,Maharashtra,1265014
+Lathi,Gujarat,1265022
+Latehar,Jharkhand,1265025
+Lar,Uttar Pradesh,1265053
+Lalsot,Rajasthan,1265143
+Lalpur,Gujarat,1265150
+Lalitpur,Uttar Pradesh,1265157
+Lalgudi,Tamil Nadu,1265163
+Lalgola,West Bengal,1265166
+Lalganj,Uttar Pradesh,1265169
+Lalganj,Bihar,1265170
