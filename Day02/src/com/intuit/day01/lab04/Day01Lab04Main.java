@@ -37,7 +37,8 @@ public class Day01Lab04Main {
 			.stream()
 			.filter(Day01Lab04Main::findPriceGreaterThan)
 			.map(Day01Lab04Main::getDiscountedPrice)
-			.reduce(Day01Lab04Main::addPrice)
+			.reduce((first, next) -> first + next)
+			//.reduce(Day01Lab04Main::addPrice)
 			.get();
 		System.out.println(totalPrice);
 		
