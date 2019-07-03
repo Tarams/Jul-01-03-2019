@@ -18,11 +18,14 @@ import java.util.stream.IntStream;
 
 public class ParallelStreamExample2 {
 	
+	private static ForkJoinPool pool;
 	public static void main(String[] args) {
-		ForkJoinPool pool = new ForkJoinPool(2);
+		pool = new ForkJoinPool(40);
+		
 		pool.submit(() -> compute());
 		//pool.submit(() -> compute());
 		//compute();
+		
 		sleep(200);
 	}
 
@@ -39,7 +42,7 @@ public class ParallelStreamExample2 {
 		numbers
 		.filter(ParallelStreamExample2::findEven)
 		.parallel()
-		.forEach(e -> {});
+		.forEach(e -> {System.out.println("no of active threads: " + pool.getActiveThreadCount());});
 	}
 
 	private static void sleep(int seconds) {
