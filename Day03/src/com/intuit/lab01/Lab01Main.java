@@ -10,7 +10,7 @@ public class Lab01Main {
 		List<Integer> numbers = 
 				Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
 		
-		IntStream stream1 = IntStream.range(1, 11);
+		IntStream stream1 = IntStream.of(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
 		System.out.println("Max: " + stream1.max().getAsInt());
 		int max = numbers
 				.stream()
