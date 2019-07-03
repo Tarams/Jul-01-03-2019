@@ -16,7 +16,7 @@ public class StreamBuilderExample {
 			count++;
 		}
 		Stream<Double> numbersStream = numbersBuilder.build();
-
+		
 		numbersStream
 			.filter(e -> e > 90)
 			.forEach(System.out::println);
